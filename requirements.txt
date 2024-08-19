@@ -1,0 +1,10 @@
+Flask==3.0.3
+gTTS==2.2.3
+python-dotenv==1.0.1
+langchain-community
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-core
+pypdf
+speechrecognition==3.9.0
